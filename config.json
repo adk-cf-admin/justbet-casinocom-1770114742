@@ -3,17 +3,17 @@
         "styles": {
             "bg": "#FAFAFA",
             "lang-select-color": "#222829",
-            "bg-light": "#39188f",
+            "bg-light": "#441ea8",
             "welcome-bonus-bg": "#e4e4e4",
             "top-games-hover-fg": "#000000",
             "main-bg": "#ffffff",
             "text": "#222829",
             "text-black": "#ffffff",
-            "table-head": "#693CDD",
+            "table-head": "#df39b1",
             "text-head": "#ffffff",
             "hero-title-text": "#222829",
             "welcome-bonus-text": "#fb333d",
-            "yellow": "#e038c2",
+            "yellow": "#df39b1",
             "yellow-button": "#693CDD",
             "button-text": "#ffffff",
             "main-button-text": "#ffffff",
@@ -23,9 +23,9 @@
             "bonus-border": "#000033",
             "providers-back": "#e4e4e4",
             "faq-label": "#e4e4e4",
-            "bg-footer": "#8b8b8b",
+            "bg-footer": "#aeaeae",
             "copyright": "#e7e7d5",
-            "starColor": "#e038c2",
+            "starColor": "#df39b1",
             "baseFont": {
                 "value": "Roboto",
                 "isCustom": false
@@ -36,10 +36,10 @@
             }
         },
         "icons": {
-            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2473"
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2501"
         },
         "header": {
-            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2475",
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2502",
             "imageSizeModifier": 0,
             "imageYModifier": 0,
             "imageXModifier": 0,
@@ -50,7 +50,7 @@
             "playNow": "Play Now"
         },
         "footer": {
-            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2476",
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2503",
             "imageSizeModifier": 0,
             "imageYModifier": 0,
             "imageXModifier": 0,
@@ -71,11 +71,11 @@
                     "title": "JustBet — Sports Betting & Racing | Best Aussie Odds",
                     "description": "Bet on sports and racing with JustBet Australia. Enjoy Same Race Multis, Best of 3 Totes, competitive odds, and exclusive daily promos. Join now!\n",
                     "canonical": "justbet-casino.com",
-                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2477",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2505",
                     "ogImageWidth": 1200,
                     "ogImageHeight": 630,
                     "twitterSite": "justbet-casino.com",
-                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2478"
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2504"
                 },
                 "hero": {
                     "title": "Bet on Sports & Racing with Australia's Best Odds",
@@ -83,12 +83,12 @@
                     "textMobile": "Exclusive welcome bonus of",
                     "playGame": "Play game",
                     "claimBonus": "Claim Bonus",
-                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2479",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2506",
                     "imageSizeModifier": 5,
                     "imageYModifier": -5,
                     "imageXModifier": 0,
-                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2480",
-                    "mobileImageSizeModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2507",
+                    "mobileImageSizeModifier": 2,
                     "mobileImageYModifier": 1,
                     "mobileImageXModifier": 0
                 },
@@ -126,7 +126,7 @@
                     "advantagesAfterText": "Join thousands of Aussie punters enjoying top-tier racing coverage and sports betting. Our support team is ready to assist you with exclusive promotions every day.\n",
                     "knowMore": "Know more",
                     "appTitle": "JustBet App",
-                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2481",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2508",
                     "imageSizeModifier": 0,
                     "imageYModifier": 0,
                     "imageXModifier": 0,
@@ -150,7 +150,7 @@
                             "Released mobile apps for iOS and Android with live betting features"
                         ],
                         "description2": "We operate under strict Australian gambling regulations with full licensing compliance. Our platform uses advanced security measures to protect your account and personal data. All odds and payouts are verified for fairness and transparency.\nWe continue expanding our racing and sports offerings with new markets daily. Our commitment to responsible gambling ensures a safe betting environment. Experience why we're Australia's fastest-growing bookmaker for racing and sports.\n",
-                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2482",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2509",
                         "imageSizeModifier": 0,
                         "imageYModifier": 0,
                         "imageXModifier": 0,
