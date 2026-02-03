@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://justbet-casino.com/
+Sitemap: https://justbet-casino.com/sitemap.xml
